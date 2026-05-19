@@ -10,4 +10,7 @@ public:
 
 class baseClass1 {
 public:
+    virtual void perkenalan(){
+        cout << "Hello saya fungction dari base Class";
+    }
 };
