@@ -7,3 +7,7 @@ public:
         cout << "hello saya fungction dari base calss";
     }
 };
+
+class baseClass1 {
+public:
+};
